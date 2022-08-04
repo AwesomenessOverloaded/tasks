@@ -1,4 +1,4 @@
-package StreamAPI.casestudy;
+package com.java8tasks;
 
 public class Candidate {
 	
